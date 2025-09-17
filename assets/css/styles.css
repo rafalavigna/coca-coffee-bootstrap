@@ -53,3 +53,7 @@ section {
     height: 300px;
     object-fit: cover;
 }
+
+.navbar-brand #footer-logo {
+    width: 80px;
+}
